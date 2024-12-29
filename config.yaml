@@ -1,0 +1,10 @@
+# ROI Process
+landmarker_path : /root/25th-conference-fakebusters/model/fakecatcher/misc/face_landmarker.task
+
+# Load Data
+inference_video_path : 
+meta_data_csv_path : /root/25th-conference-fakebusters/model/fakecatcher/data/video_list.csv
+
+# Constants
+fps_standard: 30
+seg_time_interval: 3
